@@ -1,4 +1,4 @@
-# 🌆 London Air Quality Forecasting: NO₂ & PM₂.₇ Analysis with Prophet
+# 🌆 London Air Quality Forecasting: NO₂ & PM₂.₅ Analysis with Prophet
 
 A time-series analysis and forecasting project examining nitrogen dioxide levels and fine particulate matter (PM_2.5 levels) levels at the Kensington and Chelsea (North Kensington) monitoring site in London (2010–2023).
 
