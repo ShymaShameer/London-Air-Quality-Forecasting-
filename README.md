@@ -37,4 +37,4 @@ This project leverages **Facebook Prophet** to model multi-year trends, weekly a
 │   └── london_air_quality_2010_2023_top5_sites.csv   # Raw dataset
 ├── notebook.ipynb                                    # Main analysis & Prophet pipeline
 ├── README.md                                         # Project documentation
-└── requirements.txt                                  # Python dependencies
+                                  
