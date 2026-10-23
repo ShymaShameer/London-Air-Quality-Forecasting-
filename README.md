@@ -4,7 +4,7 @@ A time-series analysis and forecasting project examining nitrogen dioxide levels
 
 This project leverages **Facebook Prophet** to model multi-year trends, weekly and yearly seasonality, and the impact of key external factors—such as Bank Holidays, Bonfire Night, and additional pollutant regressors.
 
-🔗 [Read the full article on Medium] ((https://medium.com/@shymaputhalan/forecasting-the-invisible-what-predicting-londons-air-quality-taught-me-about-facebook-prophet-14a269a4ffa6?postPublishedType=initial))
+🔗 [Read the full article on Medium](https://medium.com/@shymaputhalan/forecasting-the-invisible-what-predicting-londons-air-quality-taught-me-about-facebook-prophet-14a269a4ffa6?postPublishedType=initial)
 ---
 
 ## 📌 Project Overview
